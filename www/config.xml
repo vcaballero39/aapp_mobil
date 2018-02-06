@@ -98,10 +98,10 @@
 
 	<!-- Android icons  ================================================================== -->
 	
-	<icon src="res/icon/android/ldpi.png" gap:platform="android" gap:density="ldpi" />	<!-- 36x36 -->
-	<icon src="res/icon/android/mdpi.png" gap:platform="android" gap:density="mdpi" /> <!-- 48x48 -->
-	<icon src="res/icon/android/hdpi.png" gap:platform="android" gap:density="hdpi" /> <!-- 72x72 -->
-	<icon src="res/icon/android/xhdpi.png" gap:platform="android" gap:density="xhdpi" /> <!-- 96x96 -->
+	<icon src="res/icon/android/ldpi png.png" gap:platform="android" gap:density="ldpi" />	<!-- 36x36 -->
+	<icon src="res/icon/android/mdpi png.png" gap:platform="android" gap:density="mdpi" /> <!-- 48x48 -->
+	<icon src="res/icon/android/hdpi png.png" gap:platform="android" gap:density="hdpi" /> <!-- 72x72 -->
+	<icon src="res/icon/android/xhdpi png.png" gap:platform="android" gap:density="xhdpi" /> <!-- 96x96 -->
 	
 	<!-- Android splash  ================================================================== -->
 
