@@ -4,16 +4,16 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.SERGICURTU2018"
         versionCode = "03" 
-        version     = "0.0.03" >
+        version     = "0.0.04" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>Reproductor MP3</name>
+    <name>Reproductor MP3 chido</name>
 
    <description>
-       Reproductor de música , Alumne 4t A,B,C. 2017 - 2018.
+       Reproductor de música , Víctor Caballero 4tA. 2017 - 2018.
     </description>
 
     <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
